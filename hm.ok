@@ -1,10 +1,10 @@
 {
-  "name": "Homework 2: Data Types",
-  "endpoint": "rpi/tf/fa18/lab02",
+  "name": "exc 2: Data Types",
+  "endpoint": "pythonB",
   "src": [
-    "hm02.ipynb"
+    "test_w02.ipynb"
   ],
-  "tests": {
+  "sol": {
       "sol/sol_w*.py": "ok_test"
   },
   "protocols": [
